@@ -2,6 +2,9 @@
 
 This repository contains a machine learning model for classifying fruit images using deep learning. The model is built using **fastai**, a high-level deep learning library built on top of PyTorch, and leverages transfer learning to classify fruit images accurately.
 
+
+--
+Link for model : 'https://drive.google.com/file/d/1heHV8Pg-sqpaTcac_9ADDd0wdLCMQuAA/view?usp=drive_link'
 ---
 
 ## Features:
